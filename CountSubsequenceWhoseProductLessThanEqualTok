@@ -1,5 +1,6 @@
 import java.util.*;
-
+//TC O(n*k)
+//SC O(n*k)
 class GfG {
   
    static int numOfSubsets(int[] arr, int k) {
